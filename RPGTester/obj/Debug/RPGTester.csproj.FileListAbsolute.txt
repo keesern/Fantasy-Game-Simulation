@@ -1,0 +1,16 @@
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\bin\Debug\RPGTester.exe.config
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\bin\Debug\RPGTester.exe
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\bin\Debug\RPGTester.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\obj\Debug\RPGTester.csprojResolveAssemblyReference.cache
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\obj\Debug\RPGTester.exe
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\obj\Debug\RPGTester.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\bin\Debug\ICharacter.dll
+\\fc2.mecheng.osu.edu\student\yeng.4\windoc\visual studio 2013\Project\RPGInterfaces\RPGTester\bin\Debug\ICharacter.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\bin\Debug\RPGTester.exe.config
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\obj\Debug\RPGTester.exe
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\obj\Debug\RPGTester.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\bin\Debug\RPGTester.exe
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\bin\Debug\RPGTester.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\bin\Debug\RPGInterfaces.dll
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\bin\Debug\RPGInterfaces.pdb
+\\fc2.mecheng.osu.edu\student\yeng.4\WinDoc\Visual Studio 2013\Project\RPGInterfaces - Copy (2)\RPGTester\obj\Debug\RPGTester.csprojResolveAssemblyReference.cache
