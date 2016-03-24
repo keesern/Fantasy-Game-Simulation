@@ -1,4 +1,9 @@
-﻿using System;
+/*
+ *  Created by Kee Sern on 3/24/16.
+ *  Copyright © 2016 Kee Sern. All rights reserved.
+*/
+
+using System;
 using System.Collections.Generic;
 using Kee.RoleplayingGameInterfaces;
 
