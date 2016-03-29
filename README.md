@@ -10,13 +10,13 @@ A basic C# RPG role gaming interface with a few character base and attack.
 
 
 ### Fight
-* Normal Attack - 
-* Sword Attack - 
-* Fire Attack - 
+* Normal Attack  
+* Sword Attack  
+* Fire Attack 
 
 ### Character
-* Warrior - 
-* Mage - 
+* Warrior 
+* Mage 
 
 
 
